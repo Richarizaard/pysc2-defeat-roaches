@@ -88,15 +88,15 @@ class DefeatRoaches(base_agent.BaseAgent):
         return actions.FunctionCall(_NO_OP, [])
       index = numpy.argmax(roach_y)
       target = [roach_x[index], roach_y[index]]
-      if (_TOGGLE < 5):
-        _TOGGLE += 1
-        return actions.FunctionCall(_ATTACK_SCREEN, [_NOT_QUEUED, target])
-      elif (_TOGGLE >= 5):
-        opposite_dir = [( 64 - roach_x[index] ), ( 64 - roach_y[index] )]
-        _TOGGLE = 4
-        return actions.FunctionCall(_MOVE_SCREEN, [_NOT_QUEUED, opposite_dir])        
-      else:
-        return actions.FunctionCall(_NO_OP, [])
+      #if (_TOGGLE < 5):
+      #  _TOGGLE += 1
+      return actions.FunctionCall(_ATTACK_SCREEN, [_NOT_QUEUED, target])
+      #elif (_TOGGLE >= 5):
+      #  opposite_dir = [( 64 - roach_x[index] ), ( 64 - roach_y[index] )]
+      #  _TOGGLE = 4
+      #  return actions.FunctionCall(_MOVE_SCREEN, [_NOT_QUEUED, opposite_dir])        
+      #else:
+      #  return actions.FunctionCall(_NO_OP, [])
 
     elif _SELECT_ARMY in obs.observation["available_actions"]:
       return actions.FunctionCall(_SELECT_ARMY, [_SELECT_ALL])
