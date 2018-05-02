@@ -1,0 +1,127 @@
+I0501 00:27:22.610281 17184 sc_process.py:148] Connection attempt 0 (running: None)
+I0501 00:27:24.616618 17184 sc_process.py:148] Connection attempt 1 (running: None)
+I0501 00:27:26.618074 17184 sc_process.py:148] Connection attempt 2 (running: None)
+I0501 00:27:28.629970 17184 sc_process.py:148] Connection attempt 3 (running: None)
+I0501 00:27:35.865046 17184 sc2_env.py:200] Environment is ready.
+I0501 00:27:35.866049 17184 sc2_env.py:240] Starting episode: 1
+I0501 00:27:38.135186 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [81]
+I0501 00:27:38.149725 17184 sc2_env.py:240] Starting episode: 2
+I0501 00:27:39.564528 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:27:39.577062 17184 sc2_env.py:240] Starting episode: 3
+I0501 00:27:41.114589 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:27:41.126591 17184 sc2_env.py:240] Starting episode: 4
+I0501 00:27:42.364447 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:27:42.376953 17184 sc2_env.py:240] Starting episode: 5
+I0501 00:27:43.940182 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:27:43.952717 17184 sc2_env.py:240] Starting episode: 6
+I0501 00:27:46.660128 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [84]
+I0501 00:27:46.674191 17184 sc2_env.py:240] Starting episode: 7
+I0501 00:27:48.162536 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:27:48.175044 17184 sc2_env.py:240] Starting episode: 8
+I0501 00:27:49.393635 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:27:49.405164 17184 sc2_env.py:240] Starting episode: 9
+I0501 00:27:50.865133 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:27:50.877641 17184 sc2_env.py:240] Starting episode: 10
+I0501 00:27:52.395246 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:27:52.407304 17184 sc2_env.py:240] Starting episode: 11
+I0501 00:27:53.102668 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [11]
+I0501 00:27:53.117180 17184 sc2_env.py:240] Starting episode: 12
+I0501 00:27:55.815177 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [34]
+I0501 00:27:55.831719 17184 sc2_env.py:240] Starting episode: 13
+I0501 00:27:58.185282 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [81]
+I0501 00:27:58.197790 17184 sc2_env.py:240] Starting episode: 14
+I0501 00:27:59.469668 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:27:59.482176 17184 sc2_env.py:240] Starting episode: 15
+I0501 00:28:02.185714 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [103]
+I0501 00:28:02.198247 17184 sc2_env.py:240] Starting episode: 16
+I0501 00:28:03.858901 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:28:03.870929 17184 sc2_env.py:240] Starting episode: 17
+I0501 00:28:05.812300 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:28:05.825310 17184 sc2_env.py:240] Starting episode: 18
+I0501 00:28:07.320581 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:28:07.332614 17184 sc2_env.py:240] Starting episode: 19
+I0501 00:28:09.979501 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [70]
+I0501 00:28:09.995044 17184 sc2_env.py:240] Starting episode: 20
+I0501 00:28:11.666601 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:11.678631 17184 sc2_env.py:240] Starting episode: 21
+I0501 00:28:13.562016 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:28:13.573547 17184 sc2_env.py:240] Starting episode: 22
+I0501 00:28:15.772579 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [71]
+I0501 00:28:15.784611 17184 sc2_env.py:240] Starting episode: 23
+I0501 00:28:18.507498 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [102]
+I0501 00:28:18.520032 17184 sc2_env.py:240] Starting episode: 24
+I0501 00:28:21.064452 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [-1], score: [32]
+I0501 00:28:21.076985 17184 sc2_env.py:240] Starting episode: 25
+I0501 00:28:23.917212 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [107]
+I0501 00:28:23.932252 17184 sc2_env.py:240] Starting episode: 26
+I0501 00:28:26.519400 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:26.531431 17184 sc2_env.py:240] Starting episode: 27
+I0501 00:28:28.220117 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:28.232650 17184 sc2_env.py:240] Starting episode: 28
+I0501 00:28:30.329892 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:28:30.341422 17184 sc2_env.py:240] Starting episode: 29
+I0501 00:28:32.274225 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [91]
+I0501 00:28:32.286257 17184 sc2_env.py:240] Starting episode: 30
+I0501 00:28:35.649037 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [179]
+I0501 00:28:35.662072 17184 sc2_env.py:240] Starting episode: 31
+I0501 00:28:37.936706 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:28:37.948739 17184 sc2_env.py:240] Starting episode: 32
+I0501 00:28:39.313807 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:28:39.327844 17184 sc2_env.py:240] Starting episode: 33
+I0501 00:28:41.394992 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:28:41.407525 17184 sc2_env.py:240] Starting episode: 34
+I0501 00:28:44.148410 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [93]
+I0501 00:28:44.160442 17184 sc2_env.py:240] Starting episode: 35
+I0501 00:28:45.521749 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:45.533781 17184 sc2_env.py:240] Starting episode: 36
+I0501 00:28:47.035437 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [36]
+I0501 00:28:47.047970 17184 sc2_env.py:240] Starting episode: 37
+I0501 00:28:48.820465 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [45]
+I0501 00:28:48.832497 17184 sc2_env.py:240] Starting episode: 38
+I0501 00:28:51.816511 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [71]
+I0501 00:28:51.833097 17184 sc2_env.py:240] Starting episode: 39
+I0501 00:28:52.590225 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [21]
+I0501 00:28:52.602252 17184 sc2_env.py:240] Starting episode: 40
+I0501 00:28:53.976661 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:53.989169 17184 sc2_env.py:240] Starting episode: 41
+I0501 00:28:55.526369 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [45]
+I0501 00:28:55.540906 17184 sc2_env.py:240] Starting episode: 42
+I0501 00:28:57.495771 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:28:57.507803 17184 sc2_env.py:240] Starting episode: 43
+I0501 00:28:59.251982 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:28:59.264540 17184 sc2_env.py:240] Starting episode: 44
+I0501 00:29:00.986206 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:00.998264 17184 sc2_env.py:240] Starting episode: 45
+I0501 00:29:04.024435 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [104]
+I0501 00:29:04.037470 17184 sc2_env.py:240] Starting episode: 46
+I0501 00:29:05.905769 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:05.921311 17184 sc2_env.py:240] Starting episode: 47
+I0501 00:29:08.358478 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:29:08.371512 17184 sc2_env.py:240] Starting episode: 48
+I0501 00:29:10.101230 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:29:10.113737 17184 sc2_env.py:240] Starting episode: 49
+I0501 00:29:12.323728 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:12.335760 17184 sc2_env.py:240] Starting episode: 50
+I0501 00:29:15.349013 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [141]
+I0501 00:29:15.361046 17184 sc2_env.py:240] Starting episode: 51
+I0501 00:29:18.243711 17184 sc2_env.py:310] Episode finished. Outcome: [1], reward: [0], score: [57]
+I0501 00:29:18.256244 17184 sc2_env.py:240] Starting episode: 52
+I0501 00:29:20.065130 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:20.077136 17184 sc2_env.py:240] Starting episode: 53
+I0501 00:29:22.065424 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [81]
+I0501 00:29:22.082971 17184 sc2_env.py:240] Starting episode: 54
+I0501 00:29:23.488207 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:23.504250 17184 sc2_env.py:240] Starting episode: 55
+I0501 00:29:24.684436 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [46]
+I0501 00:29:24.696942 17184 sc2_env.py:240] Starting episode: 56
+I0501 00:29:26.053580 17184 sc2_env.py:310] Episode finished. Outcome: [-1], reward: [-1], score: [56]
+I0501 00:29:26.066113 17184 sc2_env.py:240] Starting episode: 57
+I0501 00:29:27.010626 17184 sc2_env.py:320] Wrote replay to: C:/Program Files (x86)/StarCraft II\Replays\SmartDefeatRoaches\DefeatRoaches_2018-05-01-05-29-27.SC2Replay
+I0501 00:29:27.011127 17184 sc2_env.py:327] Environment Close
+I0501 00:29:27.011127 17184 sc2_env.py:342] 
+I0501 00:29:27.011127 17184 sc2_env.py:327] Environment Close
+I0501 00:29:27.011127 17184 sc2_env.py:342] 
+I0501 00:29:27.011127 17184 sc2_env.py:327] Environment Close
+I0501 00:29:27.011127 17184 sc2_env.py:342] 
+W0501 00:29:30.123541 17184 sc_process.py:183] Killing the process.
+I0501 00:29:30.252381 17184 sc_process.py:166] Shutdown with return code: 1
