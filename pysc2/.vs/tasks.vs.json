@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-easy_scripted_test",
+      "appliesTo": "tests/easy_scripted_test.py",
+      "type": "launch"
+    }
+  ]
+}
