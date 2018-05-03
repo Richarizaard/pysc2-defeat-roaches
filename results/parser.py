@@ -1,17 +1,3 @@
-#class Solution(object):
-#    def twoSum(self, nums, target):
-#        """
-#        :type nums: List[int]
-#        :type target: int
-#        :rtype: List[int]
-#        """
-#        #for i in range(0,len(nums)):
-#        #    for k in range((i+1),(len(nums))):
-#        #        if nums[i] + nums[k] == target:
-#        #            return [i,k]   
-     
-#x = Solution()
-#print( x.twoSum( [1,2,3,4], 7 ) )
 import tkinter
 from tkinter import filedialog
 
