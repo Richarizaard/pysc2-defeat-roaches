@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\agents",
-    "\\pysc2",
+    "\\bin",
+    "\\env",
+    "\\lib",
+    "\\maps",
     "\\tests"
   ],
-  "SelectedNode": "\\agents\\simple_agent.py",
+  "SelectedNode": "\\bin\\replay_info.py",
   "PreviewInSolutionExplorer": false
 }

@@ -36,8 +36,9 @@ class TestEasy(utils.TestCase):
         map_name="DefeatRoaches",
         step_mul=self.step_mul,
         game_steps_per_episode=self.steps * self.step_mul) as env:
-      #agent = simple_agent.SmartDefeatRoaches()
-      agent = scripted_agent.DefeatRoaches()
+      #agent = simple_agent.SmartCollectMineralShards()
+      agent = simple_agent.SmartDefeatRoaches()
+      #agent = scripted_agent.DefeatRoaches()
       run_loop.run_loop([agent], env, self.steps)
 
     # Get some points
