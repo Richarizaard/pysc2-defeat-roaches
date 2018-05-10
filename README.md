@@ -1,4 +1,6 @@
 # pysc2_defeat_roaches
 
-Results directory: src/results
-Agent directory: src/pysc2/agents/simple_agent.SmartDefeatRoaches
+Results directory: /results
+
+
+Agent directory: /pysc2/agents/simple_agent.SmartDefeatRoaches
